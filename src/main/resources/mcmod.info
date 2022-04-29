@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "${id}",
+    "name": "${name}",
+    "description": "LilithMod in Forge",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "LilithMod Team",
+      "W-OVERFLOW"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
